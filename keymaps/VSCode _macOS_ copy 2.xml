@@ -1,0 +1,14 @@
+<keymap version="1" name="VSCode (macOS) copy 2" parent="VSCode OSX">
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="OpenInRightSplit">
+    <mouse-shortcut keystroke="alt button1 doubleClick" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="f" />
+  </action>
+  <action id="Terminal.ClearBuffer">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+</keymap>
